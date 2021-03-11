@@ -1,8 +1,2 @@
-# doublevision
-Aaron Moss | Neo Te Aika | Sylvia Wang
+# group ethos
 
-Helloooooo guys
-
-What's up? The CEILING! - N
-
-Is Aaron here?  
