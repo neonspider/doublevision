@@ -1,6 +1,5 @@
-# doublevision
-Aaron Moss | Neo Te Aika | Sylvia Wang
+# Business Idea (Neo)
 
-Helloooooo guys
+Double Vision™ takes your favourite multiplayer character apparel and visualizes it in real time with your device camera over augmented reality. Presenting...Double Vision Gear!
 
-What's up? The CEILING! - N
+With bluetooth enabled on your personal mobile device or a bluetooth wristband, the app on other devices will pick up a unique identifier that you can set, and your avatar clothing of choice will display on yourself from supported games. Gear's clothing will also display on compatible smart glasses with AR displays, and can also be postprocess applied to existing photos using the Gear app.
